@@ -7,7 +7,7 @@ import (
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
-	title := "Jenkins X golang http brownbag example"
+	title := "Update 14:18"
 
 	from := ""
 	if r.URL != nil {
